@@ -1,3 +1,3 @@
 # Tela de Login
 
-Tela de login Instagram.
+Tela de login réplica Instagram.
